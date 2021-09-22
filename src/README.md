@@ -1,7 +1,27 @@
 <h1 align="center">Burak  Öztürk</h1>
 
 <br/>
-[![Preview](https://img.youtube.com/vi/Lgy0atH3xXg /0.jpg)](https://www.youtube.com/watch?v=Lgy0atH3xXg )
+
+<a href="https://www.youtube.com/watch?v=Lgy0atH3xXg" target="_blank"><img align="right" style="float:right" src="https://img.youtube.com/vi/Lgy0atH3xXg/0.jpg" /></a>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## About Project
 
