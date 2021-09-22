@@ -1,6 +1,7 @@
 <h1 align="center">Burak  Öztürk</h1>
 
 <br/>
+[![Preview](https://img.youtube.com/vi/Lgy0atH3xXg /0.jpg)](https://www.youtube.com/watch?v=Lgy0atH3xXg )
 
 ## About Project
 
